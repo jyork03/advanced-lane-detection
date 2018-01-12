@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+__pycache__/
+example_writeup.pdf
+examples/
+outpy.mp4
+writeup_template.md
